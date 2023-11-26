@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "ASUS TUF Gaming F15",
+      "price": 12500000,
+      "id": 1
+    },
+    {
+      "name": "Mouse Gaming",
+      "price": 25000,
+      "id": 2
+    },
+    {
+      "name": "Keyboard Gaming",
+      "price": 15000,
+      "id": 3
+    }
+  ]
+}
